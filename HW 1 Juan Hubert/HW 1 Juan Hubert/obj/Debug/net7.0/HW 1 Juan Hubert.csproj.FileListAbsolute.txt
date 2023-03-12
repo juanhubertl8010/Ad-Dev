@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\bin\Debug\net7.0\HW 1 Juan Hubert.exe
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\bin\Debug\net7.0\HW 1 Juan Hubert.deps.json
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\bin\Debug\net7.0\HW 1 Juan Hubert.runtimeconfig.json
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\bin\Debug\net7.0\HW 1 Juan Hubert.dll
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\bin\Debug\net7.0\HW 1 Juan Hubert.pdb
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\HW 1 Juan Hubert.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\HW 1 Juan Hubert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\HW 1 Juan Hubert.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\HW 1 Juan Hubert.AssemblyInfo.cs
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\HW 1 Juan Hubert.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\HW 1 Juan Hubert.dll
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\refint\HW 1 Juan Hubert.dll
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\HW 1 Juan Hubert.pdb
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\HW 1 Juan Hubert.genruntimeconfig.cache
+C:\Users\USER\source\repos\HW 1 Juan Hubert\HW 1 Juan Hubert\obj\Debug\net7.0\ref\HW 1 Juan Hubert.dll
