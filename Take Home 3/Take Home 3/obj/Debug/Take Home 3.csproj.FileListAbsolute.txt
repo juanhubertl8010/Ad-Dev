@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\bin\Debug\Take Home 3.exe.config
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\bin\Debug\Take Home 3.exe
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\bin\Debug\Take Home 3.pdb
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\obj\Debug\Take Home 3.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\obj\Debug\Take Home 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\obj\Debug\Take_Home_3.Form1.resources
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\obj\Debug\Take_Home_3.Properties.Resources.resources
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\obj\Debug\Take Home 3.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\obj\Debug\Take Home 3.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\obj\Debug\Take Home 3.exe
+C:\Users\USER\source\repos\Take Home 3\Take Home 3\obj\Debug\Take Home 3.pdb
