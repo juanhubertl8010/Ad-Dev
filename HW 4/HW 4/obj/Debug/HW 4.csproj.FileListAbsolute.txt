@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\HW 4\HW 4\bin\Debug\HW 4.exe.config
+C:\Users\USER\source\repos\HW 4\HW 4\bin\Debug\HW 4.exe
+C:\Users\USER\source\repos\HW 4\HW 4\bin\Debug\HW 4.pdb
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW 4.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW_4.MainWindow.resources
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW_4.Form2.resources
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW_4.Properties.Resources.resources
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW 4.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW 4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW 4.exe
+C:\Users\USER\source\repos\HW 4\HW 4\obj\Debug\HW 4.pdb
