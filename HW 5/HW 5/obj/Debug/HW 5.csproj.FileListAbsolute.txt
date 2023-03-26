@@ -1,0 +1,22 @@
+C:\Users\USER\source\repos\HW 5\HW 5\bin\Debug\HW 5.exe.config
+C:\Users\USER\source\repos\HW 5\HW 5\bin\Debug\HW 5.exe
+C:\Users\USER\source\repos\HW 5\HW 5\bin\Debug\HW 5.pdb
+C:\Users\USER\source\repos\HW 5\HW 5\obj\Debug\HW 5.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\HW 5\HW 5\obj\Debug\HW 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\HW 5\HW 5\obj\Debug\HW_5.Form1.resources
+C:\Users\USER\source\repos\HW 5\HW 5\obj\Debug\HW_5.Properties.Resources.resources
+C:\Users\USER\source\repos\HW 5\HW 5\obj\Debug\HW 5.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\HW 5\HW 5\obj\Debug\HW 5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\HW 5\HW 5\obj\Debug\HW 5.exe
+C:\Users\USER\source\repos\HW 5\HW 5\obj\Debug\HW 5.pdb
+D:\Visual Studio\HW 5\HW 5\bin\Debug\HW 5.exe.config
+D:\Visual Studio\HW 5\HW 5\bin\Debug\HW 5.exe
+D:\Visual Studio\HW 5\HW 5\bin\Debug\HW 5.pdb
+D:\Visual Studio\HW 5\HW 5\obj\Debug\HW 5.csproj.AssemblyReference.cache
+D:\Visual Studio\HW 5\HW 5\obj\Debug\HW 5.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\HW 5\HW 5\obj\Debug\HW_5.Form1.resources
+D:\Visual Studio\HW 5\HW 5\obj\Debug\HW_5.Properties.Resources.resources
+D:\Visual Studio\HW 5\HW 5\obj\Debug\HW 5.csproj.GenerateResource.cache
+D:\Visual Studio\HW 5\HW 5\obj\Debug\HW 5.csproj.CoreCompileInputs.cache
+D:\Visual Studio\HW 5\HW 5\obj\Debug\HW 5.exe
+D:\Visual Studio\HW 5\HW 5\obj\Debug\HW 5.pdb
