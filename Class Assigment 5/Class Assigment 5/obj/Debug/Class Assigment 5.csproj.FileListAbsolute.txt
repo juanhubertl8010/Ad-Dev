@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\bin\Debug\Class Assigment 5.exe.config
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\bin\Debug\Class Assigment 5.exe
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\bin\Debug\Class Assigment 5.pdb
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class Assigment 5.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class Assigment 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class_Assigment_5.Form1.resources
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class_Assigment_5.Properties.Resources.resources
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class Assigment 5.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class Assigment 5.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class Assigment 5.exe
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class Assigment 5.pdb
+C:\Users\USER\source\repos\Class Assigment 5\Class Assigment 5\obj\Debug\Class_Assigment_5.Form2.resources
